@@ -15,21 +15,26 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "bitcoin"
+  icon_pack = "fas"
+  name = "Blockchain"
   description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "TEE"
+  description = "90%"
+
+[[feature]]
+  icon = "android"
+  icon_pack = "fab"
+  name = "Android"
+  description = "70%"
+  
+[[feature]]
+  icon = "apple"
+  icon_pack = "fab"
+  name = "iOS"
+  description = "70%"
 +++
