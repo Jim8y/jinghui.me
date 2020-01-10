@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Detroit"
   date_start = "2018-08-02"
   date_end = "2023-07-01"
-  description = " I am a full time PhD student at Wayne State University."
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """ I am a full time PhD student at Wayne State University.
   """
 
 [[experience]]
