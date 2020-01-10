@@ -18,12 +18,12 @@ organizations:
   url: "wayne.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include blockchain, state channel and TEE security.
 
 interests:
 - Blockchain Security
-- TEE
-- Information Retrieval
+- State Channel Security
+- Trusted Execution Environment
 
 education:
   courses:
@@ -33,7 +33,7 @@ education:
   - course: Master's in Computer Security 
     institution: Wayne State University(US)
     year: 2018
-  - course: bachelor's
+  - course: Bachelor's
     institution: Hunan University(China)
     year: 2013
 
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student of Computer Science at Wayne State University, advised by Prof. Fengwei Zhang and Co-advised by Prof. Weisong Shi. My research interests center on the security and privacy of decentralized systems, in particular those enabled by blockchain protocols and trusted execution environments (TEEs). My Ph.D. study focuses on understanding and securing the weakest links of blockchain security, namely places where blockchains interact with the real world. I got my Bachelor's degree from Hunan University, Changsha, China.
