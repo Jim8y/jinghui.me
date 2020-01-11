@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Alibaba"
   organization_url = "alibabacloud.com"
-  title = "SGX Application Crivity Contest"
+  title = "SGX Application Critivity Contest"
   url = "https://tianchi.aliyun.com/competition/entrance/231737/introduction"
   certificate_url = "https://tianchi.aliyun.com/competition/entrance/231737/introduction"
   date_start = "2019-07-15"
