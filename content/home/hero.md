@@ -1,7 +1,7 @@
 +++
 # Hero widget.
 widget = "hero"
-active = true
+active = false
 date = 2010-01-10T00:00:00
 
 title = "Jinghui Liao"
