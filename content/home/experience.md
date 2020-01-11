@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Detroit"
   date_start = "2018-08-02"
-  date_end = "2023-07-01"
+  date_end = ""
   description = """ I am a full time PhD student at Wayne State University.
   """
 
