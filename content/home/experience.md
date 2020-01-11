@@ -37,6 +37,16 @@ date_format = "Jan 2006"
   description = """ I got my Bachelor's degree from Hunan University on 2017."""
 
 [[experience]]
+  title = "NEO Community Developer"
+  company = "NEO"
+  company_url = "neo.org"
+  location = "Shenzhen, China"
+  date_start = "2018-02-25"
+  date_end = ""
+  description = """ I become a community developer for NEO project since 2018."""
+
+
+[[experience]]
   title = "Intern Enginner"
   company = "Tencent"
   company_url = "tencent.com"
