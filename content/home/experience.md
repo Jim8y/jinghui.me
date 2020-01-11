@@ -28,6 +28,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Undergraduate Student"
+  company = "Hunan University"
+  company_url = "https://www.hnu.edu.cn/"
+  location = "Changsha, China"
+  date_start = "2013-08-25"
+  date_end = "2017-06-25"
+  description = """ I got my Bachelor's degree from Hunan University on 2017."""
+
+[[experience]]
   title = "Intern Enginner"
   company = "Tencent"
   company_url = "tencent.com"
