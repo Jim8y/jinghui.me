@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "PhD Student"
   company = "Wayne State University"
-  company_url = ""
+  company_url = "wayne.edu"
   location = "Detroit"
   date_start = "2018-08-02"
   date_end = ""
