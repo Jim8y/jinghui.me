@@ -47,11 +47,11 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Intern Enginner"
+  title = "Intern Engineer"
   company = "Tencent"
   company_url = "tencent.com"
   location = "ShenZhen, China"
   date_start = "2016-07-02"
   date_end = "2016-09-01"
-  description = """Working as a 3D game developer in IEG, Tencent."""
+  description = """Intern as a 3D game developer in IEG, Tencent."""
 +++
