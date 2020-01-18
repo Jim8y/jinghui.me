@@ -29,6 +29,17 @@ date_format = "Jan 2006"
   description = "Second Prize of the competition."
 
 [[item]]
+  organization = "University at Buffalo"
+  organization_url = "https://www.coursera.org"
+  title = "Smart Contract"
+  url = ""
+  certificate_url = "https://coursera.org/share/c63d51f8293980f698551745ca9d10d3"
+  date_start = "2020-01-18"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Alibaba"
   organization_url = "alibabacloud.com"
   title = "SGX Application Critivity Contest"
