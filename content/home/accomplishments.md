@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "University at Buffalo"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://www.coursera.org/learn/smarter-contracts?"
   title = "Smart Contract"
   url = ""
   certificate_url = "https://coursera.org/share/c63d51f8293980f698551745ca9d10d3"
