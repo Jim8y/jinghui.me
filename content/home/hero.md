@@ -42,5 +42,5 @@ weight = 3
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Liaojinghui" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Follow @Liaojinghui on GitHub">Follow @Liaojinghui</a>
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Liaojinghui/awesome-sgx" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Liaojinghui/awesome-sgx on GitHub">Star</a>
+awesome-sgx:<a class="github-button" href="https://github.com/Liaojinghui/awesome-sgx" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Liaojinghui/awesome-sgx on GitHub">Star</a>
   </div>
