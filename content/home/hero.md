@@ -37,4 +37,5 @@ weight = 3
   text_color_light = true
 +++
 
-  <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Liaojinghui" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @Liaojinghui on GitHub">Follow @Liaojinghui</a>
