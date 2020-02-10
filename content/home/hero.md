@@ -46,7 +46,7 @@ weight = 3
         background: #f0e68c;
     }
 </style>
-<div class="container">>
+<div class="container">
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Liaojinghui" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Follow @Liaojinghui on GitHub">Follow @Liaojinghui</a>
 <!-- Place this tag where you want the button to render. -->
