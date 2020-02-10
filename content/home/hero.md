@@ -38,17 +38,10 @@ weight = 3
 +++
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<style>
-    .container {
-        width: 80%;
-        margin: 0 auto;
-        padding: 20px;
-        background: #f0e68c;
-    }
-</style>
-<div class="container">
+
+<div >
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Liaojinghui" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Follow @Liaojinghui on GitHub">Follow @Liaojinghui</a>
 <!-- Place this tag where you want the button to render. -->
-<font size="4">awesome-sgx:</font><a class="github-button" href="https://github.com/Liaojinghui/awesome-sgx" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Liaojinghui/awesome-sgx on GitHub">Star</a>
+<a class="github-button" href="https://github.com/Liaojinghui/awesome-sgx" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Liaojinghui/awesome-sgx on GitHub">Star</a>
   </div>
