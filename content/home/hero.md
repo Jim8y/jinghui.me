@@ -38,7 +38,6 @@ weight = 3
 +++
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
 <div >
     <!-- Place this tag where you want the button to render. -->
     <a class="github-button" href="https://github.com/Liaojinghui" aria-label="Follow @Liaojinghui on GitHub">Follow @Liaojinghui</a>
