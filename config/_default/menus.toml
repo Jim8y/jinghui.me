@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Posts"
-  url = "jinghui.blog"
+  url = "https://jinghui.blog/"
   weight = 20
 
 [[main]]
