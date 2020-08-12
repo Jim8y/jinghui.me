@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Detroit"
   date_start = "2018-08-02"
   date_end = ""
-  description = """ I am a full time PhD student at Wayne State University.
+  description = """ I am a full time PhD candidate at Wayne State University.
   """
 
 [[experience]]
