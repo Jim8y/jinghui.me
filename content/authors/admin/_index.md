@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate of Computer Science at Wayne State University, advised by Prof. [Fengwei Zhang](https://fengweiz.github.io/) and Co-advised by Prof. [Wenhai Sun](https://web.ics.purdue.edu/~sun841/index.html) and Prof. [Weisong Shi](http://thecarlab.org/weisong/). My research interests center on the blockchain protocol development, cryptography, distributed systems, and secure computing, in particular those enabled by blockchain protocols and trusted execution environments (TEEs). I got my Bachelor's degree from Hunan University, Changsha, China.
+I am a PhD candidate of Computer Science at Wayne State University, advised by Prof.[Weisong Shi](http://thecarlab.org/weisong/) and Co-advised by Prof. [Wenhai Sun](https://web.ics.purdue.edu/~sun841/index.html) and Prof. [Fengwei Zhang](https://fengweiz.github.io/) . My research interests center on the blockchain, cryptography, distributed systems, trusted execution environments (TEEs), and vehicle system security. I got my Bachelor's degree from Hunan University, Changsha, China.
