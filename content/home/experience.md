@@ -18,13 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD Student"
-  company = "Wayne State University"
-  company_url = "wayne.edu"
+  title = "Technical Consultant"
+  company = "Automata Network"
+  company_url = "ata.network"
   location = "Detroit"
-  date_start = "2018-08-02"
+  date_start = "2021-09-01"
   date_end = ""
-  description = """ I am a full time PhD candidate at Wayne State University."""
+  description = """ I become an Technical Consultant for Automata Network since 2021.
+  """
+
+[[experience]]
+  title = "NEO Core Developer"
+  company = "NEO"
+  company_url = "neo.org"
+  location = "Detroit"
+  date_start = "2021-05-02"
+  date_end = ""
+  description = """ I become a Core developer for NEO project since 2021.
+  """
 
 [[experience]]
   title = "PhD Student"
@@ -33,16 +44,8 @@ date_format = "Jan 2006"
   location = "Detroit"
   date_start = "2018-08-02"
   date_end = ""
-  description = """ I am a full time PhD candidate at Wayne State University."""
-
-[[experience]]
-  title = "PhD Student"
-  company = "Wayne State University"
-  company_url = "wayne.edu"
-  location = "Detroit"
-  date_start = "2018-08-02"
-  date_end = ""
-  description = """ I am a full time PhD candidate at Wayne State University."""
+  description = """ I am a full time PhD candidate at Wayne State University.
+"""
 
 [[experience]]
   title = "Undergraduate Student"
