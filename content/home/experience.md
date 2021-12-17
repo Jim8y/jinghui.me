@@ -35,7 +35,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ I become a Core developer for NEO project since 2021."""
 
-
 [[experience]]
   title = "PhD Student"
   company = "Wayne State University"
