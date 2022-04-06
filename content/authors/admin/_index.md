@@ -35,7 +35,7 @@ education:
     year: 2018
   - course: Bachelor's
     institution: Hunan University(China)
-    year: 2013
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
