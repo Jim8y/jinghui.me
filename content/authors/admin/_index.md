@@ -72,6 +72,6 @@ user_groups:
 
 I am a PhD candidate of Computer Science at Wayne State University, advised by Prof.[Weisong Shi](http://thecarlab.org/weisong/) and Co-advised by Prof. [Wenhai Sun](https://web.ics.purdue.edu/~sun841/index.html) and Prof. [Fengwei Zhang](https://fengweiz.github.io/) . My research interests center on the blockchain, cryptography, distributed systems, trusted execution environments (TEEs), and vehicle system security. 
 
-Automata Network has adopted my runtime random number solution based on TEE and VRF, and neo blockchain project will implement my runtime random number solution based on BFT and BLS.
+Automata Network has adopted my [runtime random number solution based on TEE and VRF](https://www.nftfair.app/), and neo blockchain project will implement my [runtime random number solution based on BFT and BLS](https://github.com/neo-project/neo/pull/2477).
 
 Currently I am a visiting student of SUSTech University. I got my Bachelor's degree from Hunan University, Changsha, China. 
