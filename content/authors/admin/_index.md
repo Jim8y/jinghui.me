@@ -72,6 +72,6 @@ user_groups:
 
 I am a PhD candidate of Computer Science at Wayne State University, advised by Prof.[Weisong Shi](http://thecarlab.org/weisong/) and Co-advised by Prof. [Wenhai Sun](https://web.ics.purdue.edu/~sun841/index.html) and Prof. [Fengwei Zhang](https://fengweiz.github.io/) . My research interests center on the blockchain, cryptography, distributed systems, trusted execution environments (TEEs), and vehicle system security. 
 
-My runtime rundom number solution based on TEE has being adopted by Automata Network, my runtime random number solution based on BFT and BLS will be implemented in neo blockchain project.
+My runtime rundom number solution based on TEE has being adopted by Automata Network, my runtime random number solution based on BFT and BLS will be implemented on neo blockchain project.
 
 Currently I am a visiting student of SUSTech University. I got my Bachelor's degree from Hunan University, Changsha, China. 
