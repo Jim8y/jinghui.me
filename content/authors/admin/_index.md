@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Security
     institution: Wayne State University(US)
-    year: 2018
+    year: 2018 - present
   - course: Master's in Computer Security 
     institution: Wayne State University(US)
     year: 2018
