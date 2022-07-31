@@ -74,4 +74,4 @@ I am a PhD candidate of Computer Science at Wayne State University, advised by P
 
 Automata Network has adopted my [runtime random number solution based on TEE and VRF](https://www.nftfair.app/), and neo blockchain project will implement my [runtime random number solution based on BFT and BLS](https://github.com/neo-project/neo/pull/2477).
 
-Currently I am a visiting student of SUSTech University. I got my Bachelor's degree from Hunan University, Changsha, China. 
+In my spare time, i serve neo as a core developer. I got my Bachelor's degree from Hunan University, Changsha, China. 
