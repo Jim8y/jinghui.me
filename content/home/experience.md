@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "ata.network"
   location = "Detroit"
   date_start = "2021-09-01"
-  date_end = ""
+  date_end = "2022-09-01"
   description = """ I become an Technical Consultant for Automata Network since 2021.
   """
 
